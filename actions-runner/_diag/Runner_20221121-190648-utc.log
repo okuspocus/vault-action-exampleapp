@@ -1,0 +1,139 @@
+[2022-11-21 19:06:48Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2022-11-21 19:06:48Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 19:06:48Z INFO HostContext] Well known directory 'Root': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 19:06:48Z INFO HostContext] Well known config file 'Credentials': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials'
+[2022-11-21 19:06:49Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 19:06:49Z INFO HostContext] Well known directory 'Root': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 19:06:49Z INFO HostContext] Well known config file 'Runner': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.runner'
+[2022-11-21 19:06:49Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2022-11-21 19:06:49Z INFO Listener] RuntimeInformation: Darwin 21.2.0 Darwin Kernel Version 21.2.0: Sun Nov 28 20:28:41 PST 2021; root:xnu-8019.61.5~1/RELEASE_ARM64_T6000.
+[2022-11-21 19:06:49Z INFO Listener] Version: 2.299.1
+[2022-11-21 19:06:49Z INFO Listener] Commit: 2e44f985bd9bf890dc061e654f6a850c6f1249cf
+[2022-11-21 19:06:49Z INFO Listener] Culture: 
+[2022-11-21 19:06:49Z INFO Listener] UI Culture: 
+[2022-11-21 19:06:49Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 19:06:49Z INFO HostContext] Well known directory 'Root': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 19:06:49Z INFO Listener] Validating directory permissions for: '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 19:06:49Z INFO CommandLineParser] Parse
+[2022-11-21 19:06:49Z INFO CommandLineParser] Parsing 1 args
+[2022-11-21 19:06:49Z INFO CommandLineParser] parsing argument
+[2022-11-21 19:06:49Z INFO CommandLineParser] HasArgs: False
+[2022-11-21 19:06:49Z INFO CommandLineParser] Adding Command: remove
+[2022-11-21 19:06:49Z INFO Listener] Arguments parsed
+[2022-11-21 19:06:49Z INFO Runner] ExecuteCommand
+[2022-11-21 19:06:49Z INFO ConfigurationStore] currentAssemblyLocation: /Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin/Runner.Listener.dll
+[2022-11-21 19:06:49Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 19:06:49Z INFO ConfigurationStore] binPath: /Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin
+[2022-11-21 19:06:49Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 19:06:49Z INFO HostContext] Well known directory 'Root': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 19:06:49Z INFO ConfigurationStore] RootFolder: /Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner
+[2022-11-21 19:06:49Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 19:06:49Z INFO HostContext] Well known directory 'Root': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 19:06:49Z INFO HostContext] Well known config file 'Runner': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.runner'
+[2022-11-21 19:06:49Z INFO ConfigurationStore] ConfigFilePath: /Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.runner
+[2022-11-21 19:06:49Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 19:06:49Z INFO HostContext] Well known directory 'Root': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 19:06:49Z INFO HostContext] Well known config file 'Credentials': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials'
+[2022-11-21 19:06:49Z INFO ConfigurationStore] CredFilePath: /Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials
+[2022-11-21 19:06:49Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 19:06:49Z INFO HostContext] Well known directory 'Root': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 19:06:49Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_migrated'
+[2022-11-21 19:06:49Z INFO ConfigurationStore] MigratedCredFilePath: /Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_migrated
+[2022-11-21 19:06:49Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 19:06:49Z INFO HostContext] Well known directory 'Root': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 19:06:49Z INFO HostContext] Well known config file 'Service': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.service'
+[2022-11-21 19:06:49Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.service
+[2022-11-21 19:06:49Z INFO CommandSettings] Flag 'help': 'False'
+[2022-11-21 19:06:49Z INFO CommandSettings] Flag 'version': 'False'
+[2022-11-21 19:06:49Z INFO CommandSettings] Flag 'commit': 'False'
+[2022-11-21 19:06:49Z INFO CommandSettings] Flag 'check': 'False'
+[2022-11-21 19:06:49Z INFO CommandSettings] Command 'configure': 'False'
+[2022-11-21 19:06:49Z INFO CommandSettings] Command 'remove': 'True'
+[2022-11-21 19:06:49Z INFO ConfigurationStore] IsServiceConfigured()
+[2022-11-21 19:06:49Z INFO ConfigurationStore] IsServiceConfigured: False
+[2022-11-21 19:06:49Z INFO ConfigurationStore] IsConfigured()
+[2022-11-21 19:06:49Z INFO ConfigurationStore] IsConfigured: True
+[2022-11-21 19:06:49Z INFO ConfigurationStore] HasCredentials()
+[2022-11-21 19:06:49Z INFO ConfigurationStore] stored True
+[2022-11-21 19:06:49Z INFO ConfigurationStore] Read setting file: 309 chars
+[2022-11-21 19:06:49Z INFO CommandSettings] Arg 'token': ''
+[2022-11-21 19:06:49Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-11-21 19:06:49Z INFO PromptManager] ReadValue
+[2022-11-21 19:06:49Z INFO Terminal] WRITE: Enter runner remove token: 
+[2022-11-21 19:06:49Z INFO Terminal] READ SECRET
+[2022-11-21 19:06:50Z INFO Terminal] Read value: '***'
+[2022-11-21 19:06:51Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration'
+[2022-11-21 19:06:51Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2022-11-21 19:06:51Z INFO RunnerServer] EstablishVssConnection
+[2022-11-21 19:06:51Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2022-11-21 19:06:51Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-11-21 19:06:51Z INFO RunnerServer] EstablishVssConnection
+[2022-11-21 19:06:51Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-11-21 19:06:51Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-11-21 19:06:51Z INFO RunnerServer] EstablishVssConnection
+[2022-11-21 19:06:51Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-11-21 19:06:51Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-11-21 19:06:52Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-11-21 19:06:52Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-11-21 19:06:52Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-11-21 19:06:53Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 3002db3f-bd20-432c-9142-9c6fdc954867
+ActivityId: 473aebb8-98a7-41e4-8fda-b0a833d7b236
+X-TFS-Session: 17244c35-ebe8-431f-8f56-aa20624144e8
+X-VSS-E2EID: 31b74d95-e809-487c-81a2-de0b74a7d8b9
+X-VSS-SenderDeploymentId: db749832-a838-5c1d-bd77-d3af5cf15b8b
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-VSS-UserData: aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa:System:PublicAccess;aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 0F8C223568C248169E8CB8F561E0DE77 Ref B: BCN30EDGE0418 Ref C: 2022-11-21T19:06:53Z
+Date: Mon, 21 Nov 2022 19:06:52 GMT
+
+[2022-11-21 19:06:53Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 3002db3f-bd20-432c-9142-9c6fdc954867
+ActivityId: 473aea56-98a7-41e4-8fda-b0a833d7b236
+X-TFS-Session: 17244c35-ebe8-431f-8f56-aa20624144e8
+X-VSS-E2EID: 31b74d95-e809-487c-81a2-de0b74a7d8b9
+X-VSS-SenderDeploymentId: db749832-a838-5c1d-bd77-d3af5cf15b8b
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-VSS-UserData: aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa:System:PublicAccess;aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 3D7AE85159ED481788CFF7B9C01D0BD5 Ref B: BCN30EDGE0418 Ref C: 2022-11-21T19:06:53Z
+Date: Mon, 21 Nov 2022 19:06:52 GMT
+
+[2022-11-21 19:06:53Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 3002db3f-bd20-432c-9142-9c6fdc954867
+ActivityId: 473aea6d-98a7-41e4-8fda-b0a833d7b236
+X-TFS-Session: 17244c35-ebe8-431f-8f56-aa20624144e8
+X-VSS-E2EID: 31b74d95-e809-487c-81a2-de0b74a7d8b9
+X-VSS-SenderDeploymentId: db749832-a838-5c1d-bd77-d3af5cf15b8b
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-VSS-UserData: aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa:System:PublicAccess;aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 7FB17730F1B148A9B0D962232F1D2A96 Ref B: BCN30EDGE0418 Ref C: 2022-11-21T19:06:53Z
+Date: Mon, 21 Nov 2022 19:06:52 GMT
+
+[2022-11-21 19:06:53Z ERR  GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/hF8zOUMGWytK4JAmod8FLcZ1yafXwV1u0ooB62lFUJAAnu6xlj/_apis/distributedtask/pools/0/agents?agentName=Daniels-MacBook-Pro&includeCapabilities=False is not authorized. Details: The user 'System:PublicAccess;aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa' is not authorized to access this resource.
+[2022-11-21 19:06:53Z ERR  Terminal] WRITE ERROR: Failed: Removing runner from the server
+[2022-11-21 19:06:53Z ERR  Runner] GitHub.Services.Common.VssUnauthorizedException: The user 'System:PublicAccess;aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa' is not authorized to access this resource.
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.UnconfigureAsync(CommandSettings command)
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+[2022-11-21 19:06:53Z ERR  Terminal] WRITE ERROR: The user 'System:PublicAccess;aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa' is not authorized to access this resource.
+[2022-11-21 19:06:53Z INFO Listener] Runner execution has finished with return code 1
