@@ -1,0 +1,131 @@
+[2022-11-21 21:03:58Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Root': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 21:03:58Z INFO HostContext] Well known config file 'Credentials': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials'
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Root': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 21:03:58Z INFO HostContext] Well known config file 'Runner': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.runner'
+[2022-11-21 21:03:58Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2022-11-21 21:03:58Z INFO Listener] RuntimeInformation: Darwin 21.2.0 Darwin Kernel Version 21.2.0: Sun Nov 28 20:28:41 PST 2021; root:xnu-8019.61.5~1/RELEASE_ARM64_T6000.
+[2022-11-21 21:03:58Z INFO Listener] Version: 2.299.1
+[2022-11-21 21:03:58Z INFO Listener] Commit: 2e44f985bd9bf890dc061e654f6a850c6f1249cf
+[2022-11-21 21:03:58Z INFO Listener] Culture: 
+[2022-11-21 21:03:58Z INFO Listener] UI Culture: 
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Root': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 21:03:58Z INFO Listener] Validating directory permissions for: '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 21:03:58Z INFO CommandLineParser] Parse
+[2022-11-21 21:03:58Z INFO CommandLineParser] Parsing 1 args
+[2022-11-21 21:03:58Z INFO CommandLineParser] parsing argument
+[2022-11-21 21:03:58Z INFO CommandLineParser] HasArgs: False
+[2022-11-21 21:03:58Z INFO CommandLineParser] Adding Command: run
+[2022-11-21 21:03:58Z INFO Listener] Arguments parsed
+[2022-11-21 21:03:58Z INFO Runner] ExecuteCommand
+[2022-11-21 21:03:58Z INFO ConfigurationStore] currentAssemblyLocation: /Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin/Runner.Listener.dll
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 21:03:58Z INFO ConfigurationStore] binPath: /Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Root': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 21:03:58Z INFO ConfigurationStore] RootFolder: /Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Root': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 21:03:58Z INFO HostContext] Well known config file 'Runner': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.runner'
+[2022-11-21 21:03:58Z INFO ConfigurationStore] ConfigFilePath: /Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.runner
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Root': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 21:03:58Z INFO HostContext] Well known config file 'Credentials': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials'
+[2022-11-21 21:03:58Z INFO ConfigurationStore] CredFilePath: /Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Root': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 21:03:58Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_migrated'
+[2022-11-21 21:03:58Z INFO ConfigurationStore] MigratedCredFilePath: /Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_migrated
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Root': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 21:03:58Z INFO HostContext] Well known config file 'Service': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.service'
+[2022-11-21 21:03:58Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.service
+[2022-11-21 21:03:58Z INFO CommandSettings] Flag 'help': 'False'
+[2022-11-21 21:03:58Z INFO CommandSettings] Flag 'version': 'False'
+[2022-11-21 21:03:58Z INFO CommandSettings] Flag 'commit': 'False'
+[2022-11-21 21:03:58Z INFO CommandSettings] Flag 'check': 'False'
+[2022-11-21 21:03:58Z INFO CommandSettings] Command 'configure': 'False'
+[2022-11-21 21:03:58Z INFO CommandSettings] Command 'remove': 'False'
+[2022-11-21 21:03:58Z INFO CommandSettings] Command 'warmup': 'False'
+[2022-11-21 21:03:58Z INFO ConfigurationManager] LoadSettings
+[2022-11-21 21:03:58Z INFO ConfigurationStore] IsConfigured()
+[2022-11-21 21:03:58Z INFO ConfigurationStore] IsConfigured: True
+[2022-11-21 21:03:58Z INFO ConfigurationManager] Is configured: True
+[2022-11-21 21:03:58Z INFO ConfigurationStore] Read setting file: 309 chars
+[2022-11-21 21:03:58Z INFO ConfigurationManager] Settings Loaded
+[2022-11-21 21:03:58Z INFO ConfigurationStore] IsServiceConfigured()
+[2022-11-21 21:03:58Z INFO ConfigurationStore] IsServiceConfigured: False
+[2022-11-21 21:03:58Z INFO CommandSettings] Command 'run': 'True'
+[2022-11-21 21:03:58Z INFO ConfigurationStore] IsConfigured()
+[2022-11-21 21:03:58Z INFO ConfigurationStore] IsConfigured: True
+[2022-11-21 21:03:58Z INFO ConfigurationManager] Is configured: True
+[2022-11-21 21:03:58Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2022-11-21 21:03:58Z INFO Runner] Set runner startup type - Manual
+[2022-11-21 21:03:58Z INFO CommandSettings] Flag 'once': 'False'
+[2022-11-21 21:03:58Z INFO CommandSettings] Flag 'once': 'False'
+[2022-11-21 21:03:58Z INFO Runner] RunAsync
+[2022-11-21 21:03:58Z INFO ConfigurationManager] LoadSettings
+[2022-11-21 21:03:58Z INFO ConfigurationStore] IsConfigured()
+[2022-11-21 21:03:58Z INFO ConfigurationStore] IsConfigured: True
+[2022-11-21 21:03:58Z INFO ConfigurationManager] Is configured: True
+[2022-11-21 21:03:58Z INFO ConfigurationManager] Settings Loaded
+[2022-11-21 21:03:58Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "Daniels-MacBook-Pro",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/hF8zOUMGWytK4JAmod8FLcZ1yafXwV1u0ooB62lFUJAAnu6xlj",
+  "GitHubUrl": "https://github.com/okuspocus/vault-action-exampleapp",
+  "WorkFolder": "_work"
+}
+[2022-11-21 21:03:58Z INFO MessageListener] Loading Credentials
+[2022-11-21 21:03:58Z INFO ConfigurationStore] HasCredentials()
+[2022-11-21 21:03:58Z INFO ConfigurationStore] stored True
+[2022-11-21 21:03:58Z INFO CredentialManager] GetCredentialProvider
+[2022-11-21 21:03:58Z INFO CredentialManager] Creating type OAuth
+[2022-11-21 21:03:58Z INFO CredentialManager] Creating credential type: OAuth
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Bin': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2022-11-21 21:03:58Z INFO HostContext] Well known directory 'Root': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2022-11-21 21:03:58Z INFO HostContext] Well known config file 'RSACredentials': '/Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams'
+[2022-11-21 21:03:58Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams
+[2022-11-21 21:03:58Z INFO MessageListener] Attempt to create session.
+[2022-11-21 21:03:58Z INFO MessageListener] Connecting to the Runner Server...
+[2022-11-21 21:03:58Z INFO RunnerServer] EstablishVssConnection
+[2022-11-21 21:03:58Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2022-11-21 21:03:59Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-11-21 21:03:59Z INFO RunnerServer] EstablishVssConnection
+[2022-11-21 21:03:59Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-11-21 21:03:59Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-11-21 21:03:59Z INFO RunnerServer] EstablishVssConnection
+[2022-11-21 21:03:59Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-11-21 21:03:59Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-11-21 21:04:00Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-11-21 21:04:00Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-11-21 21:04:00Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-11-21 21:04:00Z INFO MessageListener] VssConnection created
+[2022-11-21 21:04:00Z INFO Terminal] WRITE LINE: 
+[2022-11-21 21:04:00Z INFO Terminal] WRITE LINE: 
+[2022-11-21 21:04:00Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams
+[2022-11-21 21:04:00Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/daniel.salmeron/repos/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams
+[2022-11-21 21:04:01Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-11-21 21:04:01Z ERR  GitHubActionsService] POST request to https://pipelines.actions.githubusercontent.com/hF8zOUMGWytK4JAmod8FLcZ1yafXwV1u0ooB62lFUJAAnu6xlj/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict, AFD Ref: Ref A: 6B2E7522275F48839BAE931E02AB654F Ref B: BCN30EDGE0820 Ref C: 2022-11-21T21:04:01Z
+[2022-11-21 21:04:01Z ERR  MessageListener] Catch exception during create session.
+[2022-11-21 21:04:01Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner Daniels-MacBook-Pro already has an active session for owner Daniels-MacBook-Pro.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2022-11-21 21:04:01Z INFO MessageListener] The session for this runner already exists.
+[2022-11-21 21:04:01Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2022-11-21 21:04:01Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2022-11-21 21:04:01Z ERR  Terminal] WRITE ERROR: 2022-11-21 21:04:01Z: Runner connect error: The actions runner Daniels-MacBook-Pro already has an active session for owner Daniels-MacBook-Pro.. Retrying until reconnected.
+[2022-11-21 21:04:01Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2022-11-21 21:04:20Z INFO Terminal] WRITE LINE: Exiting...
+[2022-11-21 21:04:20Z INFO ConfigurationStore] IsServiceConfigured()
+[2022-11-21 21:04:20Z INFO ConfigurationStore] IsServiceConfigured: False
+[2022-11-21 21:04:20Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2022-11-21 21:04:20Z INFO Listener] Runner execution been cancelled.
