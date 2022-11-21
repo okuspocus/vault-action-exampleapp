@@ -1,8 +1,9 @@
-- name: Vault Secrets
-  uses: hashicorp/vault-action@v2.4.3
+- name: Import Secrets
+        uses: hashicorp/vault-action@v2
         with:
           url: https://vault-cluster-collibra-dev-public-vault-d912d33a.857b0cae.z1.hashicorp.cloud:8200
           tlsSkipVerify: true
-          token: \${{ secrets.VAULT_TOKEN }}
+          token: ${{ secrets.VAULT_TOKEN }}
           secrets: |
             secret/data/ci app_secret
+
