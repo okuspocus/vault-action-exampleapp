@@ -9,7 +9,7 @@ jobs:
       - name: Import Secrets
         uses: hashicorp/vault-action@v2
         with:
-          url: http://127.0.0.1:8200
+          url: https://vault-cluster-collibra-dev-public-vault-d912d33a.857b0cae.z1.hashicorp.cloud:8200
           tlsSkipVerify: true
           token: ${{ secrets.VAULT_TOKEN }}
           secrets: |
