@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "Daniels-MacBook-Pro",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/hF8zOUMGWytK4JAmod8FLcZ1yafXwV1u0ooB62lFUJAAnu6xlj",
+  "gitHubUrl": "https://github.com/okuspocus/vault-action-exampleapp",
+  "workFolder": "_work"
+}
